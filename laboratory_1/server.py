@@ -35,7 +35,6 @@ def home():
         all_md[i] = all_md[i][:-len(".md")]
 
     html = render_template('main_page.html', all_md=all_md)
-
     
     return html	
 

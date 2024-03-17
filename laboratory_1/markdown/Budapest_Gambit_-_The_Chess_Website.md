@@ -1,3 +1,0 @@
-# Budapest Gambit - The Chess Website
-The Budapest Gambit is one of the least common gambits but still offers black a lot of interesting play. In the main line for example, white can easily fall into a trap that ends in checkmate very early in the game.<br>1. d4 Nf6
-2. c4 e5<br>In the second move, black looks to give up his pawn on e5 but then starts to develop of his pieces to add pressure on the e5 pawn. White will be unable to hold onto the extra pawn and therefore many times will just give back the pawn and continue to develop pieces and not worry about the pawn advantage.<br>
